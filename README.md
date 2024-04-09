@@ -60,6 +60,7 @@
 This is the basic structure of our to-do list using HTML, and now we can move on to styling it using CSS.
 
 (CSS Code):
+
 @import: This line imports a Google Fonts stylesheet, making the "Gochi Hand" font available for use on the page.
 
 
